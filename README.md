@@ -122,7 +122,7 @@ https://www.fb.com/jwd75
 
 ### This is image syntax
 <!--[Photo](Star.jpg)-->
-<img src="Star.jpg" hieght="242" width="202" title="Photo"/>
+<img src="./Images/Star1.jpg" hieght="242" width="202" title="Photo"/>
 
 <br>
 
