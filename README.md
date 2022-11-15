@@ -121,8 +121,8 @@ https://www.fb.com/jwd75
 <br>
 
 ### This is image syntax
-![Photo](Star.jpg)
-<img src="star.jpg" hieght="242" width="202" title="Photo"/>
+![Photo](Star.JPG)
+<img src="Star.JPG" hieght="242" width="202" title="Photo"/>
 
 <br>
 
